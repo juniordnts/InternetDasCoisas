@@ -12,7 +12,7 @@ No presente projeto, vamos utilizar um Broker, que disponibiliza tal serviço de
 
 ## Passo 1 - Instalar a biblioteca no IDE Arduino pubsubclient
 
-[pubsubclient](pubsubclient.zip)
+[pubsubclient](files/pubsubclient.zip)
 
 ## Passo 2 - Adicionar o código base na IDE Arduino
 
